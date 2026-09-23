@@ -1,0 +1,51 @@
+[
+  {
+    "name": "whip",
+    "file": "whip.wav",
+    "source": "https://remotion.media/whip.wav",
+    "license": "CC0",
+    "attribution": "SWSH_Badminton Racquet_Recording_01_JW Audio by JW_Audio - [freesound.org/s/838766](https://freesound.org/s/838766/) - License: Creative Commons 0"
+  },
+  {
+    "name": "whoosh",
+    "file": "whoosh.wav",
+    "source": "https://remotion.media/whoosh.wav",
+    "license": "CC0",
+    "attribution": "Woosh by 1bob - [freesound.org/s/831936](https://freesound.org/s/831936/) - License: Creative Commons 0"
+  },
+  {
+    "name": "pageTurn",
+    "file": "page-turn.wav",
+    "source": "https://remotion.media/page-turn.wav",
+    "license": "CC0",
+    "attribution": "Draw Knife 1 by kenney.nl - [kenney.nl](https://kenney.nl) - License: Creative Commons 0"
+  },
+  {
+    "name": "uiSwitch",
+    "file": "switch.wav",
+    "source": "https://remotion.media/switch.wav",
+    "license": "CC0",
+    "attribution": "UI Audio - Switch 35 by kenney.nl - [kenney.nl](https://kenney.nl) - License: Creative Commons 0"
+  },
+  {
+    "name": "mouseClick",
+    "file": "mouse-click.wav",
+    "source": "https://remotion.media/mouse-click.wav",
+    "license": "CC0",
+    "attribution": "Mouse Click Sound.mp3 by Pixeliota - [freesound.org/s/678248](https://freesound.org/s/678248/) - License: Creative Commons 0"
+  },
+  {
+    "name": "shutterModern",
+    "file": "shutter-modern.wav",
+    "source": "https://remotion.media/shutter-modern.wav",
+    "license": "CC0",
+    "attribution": "DSLR Shutter fast 006.wav by ristooooo1 - [freesound.org/s/539136](https://freesound.org/s/539136/) - License: Creative Commons 0"
+  },
+  {
+    "name": "shutterOld",
+    "file": "shutter-old.wav",
+    "source": "https://remotion.media/shutter-old.wav",
+    "license": "CC0",
+    "attribution": "Werra.wav by hmilleo - [freesound.org/s/409093](https://freesound.org/s/409093/) - License: Creative Commons 0"
+  }
+]
